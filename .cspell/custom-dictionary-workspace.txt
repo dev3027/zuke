@@ -1,0 +1,21 @@
+# Custom Dictionary Words
+authlogic
+autocorrect
+autocorrection
+bson
+encryptable
+encryptor
+Hotwire
+Hotwire's
+importmap
+kamal
+mongoid
+omakase
+Omakase
+omniauth
+propshaft
+reconfirmable
+Sendfile
+timeoutable
+validatable
+zoneinfo
